@@ -1,0 +1,15 @@
+C:\temp\projetos\testeGupy\testeGupy\bin\Debug\net6.0\testeGupy.exe
+C:\temp\projetos\testeGupy\testeGupy\bin\Debug\net6.0\testeGupy.deps.json
+C:\temp\projetos\testeGupy\testeGupy\bin\Debug\net6.0\testeGupy.runtimeconfig.json
+C:\temp\projetos\testeGupy\testeGupy\bin\Debug\net6.0\testeGupy.dll
+C:\temp\projetos\testeGupy\testeGupy\bin\Debug\net6.0\testeGupy.pdb
+C:\temp\projetos\testeGupy\testeGupy\obj\Debug\net6.0\testeGupy.csproj.AssemblyReference.cache
+C:\temp\projetos\testeGupy\testeGupy\obj\Debug\net6.0\testeGupy.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\testeGupy\testeGupy\obj\Debug\net6.0\testeGupy.AssemblyInfoInputs.cache
+C:\temp\projetos\testeGupy\testeGupy\obj\Debug\net6.0\testeGupy.AssemblyInfo.cs
+C:\temp\projetos\testeGupy\testeGupy\obj\Debug\net6.0\testeGupy.csproj.CoreCompileInputs.cache
+C:\temp\projetos\testeGupy\testeGupy\obj\Debug\net6.0\testeGupy.dll
+C:\temp\projetos\testeGupy\testeGupy\obj\Debug\net6.0\refint\testeGupy.dll
+C:\temp\projetos\testeGupy\testeGupy\obj\Debug\net6.0\testeGupy.pdb
+C:\temp\projetos\testeGupy\testeGupy\obj\Debug\net6.0\testeGupy.genruntimeconfig.cache
+C:\temp\projetos\testeGupy\testeGupy\obj\Debug\net6.0\ref\testeGupy.dll
